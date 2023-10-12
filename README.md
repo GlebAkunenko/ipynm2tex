@@ -31,12 +31,12 @@ In this case you can delete the 160 Mb venv folder!
 
 ## Features and problems
 It can and cannot convert these parts of notebook.
-[x] table;
-[x] code to listing;
-[x] code result to listing;
-[ ] markdown (I am lazy);
-[ ] images (may be later);
-[ ] graphics (may be later);
+- [x] table;
+- [x] code to listing;
+- [x] code result to listing;
+- [ ] markdown (I am lazy);
+- [ ] images (may be later);
+- [ ] graphics (may be later);
 
 ## Shortcut
 
