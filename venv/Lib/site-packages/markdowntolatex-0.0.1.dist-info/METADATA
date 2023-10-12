@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: MarkdownToLaTeX
+Version: 0.0.1
+Summary: Markdown to LaTeX
+Project-URL: Homepage, https://github.com/gitcordier/MarkdownToLaTeX
+Project-URL: Bug Tracker, https://github.com/gitcordier/MarkdownToLaTeX/issues
+Project-URL: Documentation, https://markdowntolatex.readthedocs.io
+Author-email: gitcordier <admin@gcordier.eu>
+Maintainer-email: gitcordier <admin@gcordier.eu>
+License-File: LICENSE
+Keywords: LaTeX,Markdown,Markdown to LaTeX
+Classifier: Development Status :: 1 - Planning
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Text Processing :: Markup :: LaTeX
+Classifier: Topic :: Text Processing :: Markup :: Markdown
+Classifier: Topic :: Utilities
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+
+# MarkdownToLaTeX
+
+https://markdowntolatex.readthedocs.io

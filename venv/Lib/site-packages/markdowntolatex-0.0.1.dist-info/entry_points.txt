@@ -1,0 +1,2 @@
+[console_scripts]
+markdowntolatex = markdowntolatex.user.choice:markdown_to_latex
