@@ -34,9 +34,10 @@ Script can convert some parts of notebook which are marked with X.
 - [x] table;
 - [x] code to listing;
 - [x] code result to listing;
-- [ ] markdown (I am lazy);
-- [ ] images (may be later);
-- [ ] graphics (may be later).
+- [x] plots and images;
+- markdown;
+    - [x] sections and subsections; 
+    - [ ] other stuff;
 
 ## Shortcut
 

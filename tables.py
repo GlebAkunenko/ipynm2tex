@@ -41,7 +41,7 @@ _pattern = r"""
 [BODY]
 	\hline
     \end{tabular}
-    \label{tab:my_label}
+    \label{tab:label}
 \end{table}
 """
 
